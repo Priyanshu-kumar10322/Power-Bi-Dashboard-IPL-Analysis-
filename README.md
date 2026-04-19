@@ -11,10 +11,10 @@ The objective of this project is to create an interactive Power BI dashboard tha
 performance of teams across IPL seasons from 2008 to 2025.
 A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
 
-Primary KPI's
+**Primary KPI's**
 
--- The Winner Team of the selected season along with its dynamically displayed team logo
--- The Runner-Up Team of the selected season along with its dynamically displayed team logo
+- The Winner Team of the selected season along with its dynamically displayed team logo
+- The Runner-Up Team of the selected season along with its dynamically displayed team logo
 
 3. Sesondary KPI's
 
@@ -31,25 +31,25 @@ A key business requirement is to enable users to select any season using a slice
 
 A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
 
-Orange Cap Stats
+**Orange Cap Stats**
 - Orange Cap Holder Name
 - Total Runs Scored in the season
 - Team Name the player represented
 - Player Image (dynamically rendered)
 
-Purple Cap Stats
+**Purple Cap Stats**
 - Purple Cap Holder Name
 - Total Wickets in the season
 - Team Name the player represented
 - Player Image (dynamically rendered)
 
-Total Fours in Season
+**Total Fours in Season**
 - Player Name
 - Total Fours in the season
 - Team Name the player represented
 - Player Image (dynamically rendered)
 
-Total Sixes in Season
+**Total Sixes in Season**
 - Player Name
 - Total Six's in the season
 - Team Name the player represented
