@@ -55,4 +55,13 @@ A key business requirement is to enable users to select any season using a slice
 - Team Name the player represented
 - Player Image (dynamically rendered)
 
+5. Data Source
+
+**Source** : www.iplt20.com 
+
+Data on IPL Analysis 2008 - 2025 , including details on their season_id	,match_id, batter, 	bowler,	non_striker,	team_batting,	team_bowling,	over_number, ball_number, batter_runs, extras,	total_runs, batsman_type,	bowler_type,	player_out
+
+6. ScreenShorts
+
+[Dashboard Preview] 
 
