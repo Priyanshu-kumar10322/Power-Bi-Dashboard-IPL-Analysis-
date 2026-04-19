@@ -1,10 +1,11 @@
 # Power-Bi-Dashboard-IPL-Analysis
 
 1. IPL Analysis 2008 - 2025
+
 A dynamic, interactive data visualization tool biult to explore IPL Analysis focusing on Champians, Runner Up, Orange Cap Status, Purple Cap Status, Total Four's,
 Total Six's and Point Table.
 
-2. Performance Across IPL Season
+3. Performance Across IPL Season
 The objective of this project is to create an interactive Power BI dashboard that provides insights into the
 performance of teams across IPL seasons from 2008 to 2025.
 A key business requirement is to enable users to select any season using a slicer/filter and instantly view:
