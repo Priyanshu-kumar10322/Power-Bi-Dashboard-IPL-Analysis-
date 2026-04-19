@@ -59,14 +59,14 @@ A key business requirement is to enable users to select any season using a slice
 
 **Source** : www.iplt20.com 
 
-Data on IPL Analysis 2008 - 2025 , including details on their season_id	,match_id, batter, 	bowler,	non_striker,	team_batting,	team_bowling,	over_number, ball_number, batter_runs, extras,	total_runs, batsman_type,	bowler_type,	player_out
+Data on IPL Analysis 2008 - 2025 , including details on their season_id	,match_id, batter, 	bowler,	non_striker,	team_batting,	team_bowling,	over_number, ball_number, batter_runs, extras,	total_runs, batsman_type,	bowler_type,	player_out ....
 
 6. ScreenShorts
 
 [Dashboard Preview](https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/IPL%20Analysis%20(2024).png)
 
-[Dashboard Preview]https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/IPL%20Anylasis%20(2025).png
+[Dashboard Preview](https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/IPL%20Anylasis%20(2025).png)
 
-[Data Modeling View]https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/Model%20View.png
+[Data Modeling View](https://github.com/Priyanshu-kumar10322/Power-Bi-Dashboard-IPL-Analysis-/blob/main/Model%20View.png)
 
 
