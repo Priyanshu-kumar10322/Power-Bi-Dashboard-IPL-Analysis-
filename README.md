@@ -2,7 +2,7 @@
 
 1. IPL Analysis 2008 - 2025
 
-A dynamic, interactive data visualization tool biult to explore IPL Analysis focusing on Champians, Runner Up, Orange Cap Status, Purple Cap Status, Total Four's,
+A dynamic, interactive data visualization tool build to explore IPL Analysis focusing on Champians, Runner Up, Orange Cap Status, Purple Cap Status, Total Four's,
 Total Six's and Point Table.
 
 2. Performance Across IPL Season
